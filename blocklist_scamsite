@@ -18,6 +18,39 @@
 ||mvdis-ltw.net^
 ||zfd3668.top^
 ||lineopc.com^
+||lineepc.com^
+||lineupc.com^
+||w-line.com.cn^
+||https://www.linezh.cn
+||line-apps.cn^
+||linerpc.com^
+||linezh-cn.com^
+||hk-line.com^
+||linecnc.com^
+||linepc.com^
+||linezh.cn
+! Block suspicious phishing domains (exact matches)
+||line-login-security.com^
+||line-login-secure.net^
+||line-member-center.com^
+||line-member-support.net^
+||line-verification-alert.com^
+||line-account-unlock.info^
+||line-support-center.vip^
+||line-campaign-event.com^
+||line-campaign-2024.com^
+||line-yearend-campaign.net^
+||line-gift-event.vip^
+||line-bonus-present.shop^
+||linejp-login-secure.info^
+||linejp-support-verification.com^
+||linejp-campaign-event.net^
+||line-helpcampaign.com^
+||line-customer-center.cc^
+||line-secure-check.net^
+||line-auth-center.info^
+||linepoint-event.com^
+||line-present-event.shop^
 !End Custom not on list
 
 ||www.0857.games^
